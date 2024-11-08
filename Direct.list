@@ -587,8 +587,8 @@ DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,api.cloudflare.com
 DOMAIN-SUFFIX,time.cloudflare.com
 DOMAIN-SUFFIX,time.windows.com
-# DOMAIN-SUFFIX,cqttech.com
-DOMAIN-SUFFIX,mirrors.vsean.net
+DOMAIN-SUFFIX,cqttech.com
+# DOMAIN-SUFFIX,mirrors.vsean.net
 # DOMAIN-SUFFIX,4.jaci.us.kg
 # DOMAIN-SUFFIX,6.jaci.us.kg
-DOMAIN-SUFFIX,deff.nelreports.net
+# DOMAIN-SUFFIX,deff.nelreports.net
