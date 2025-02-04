@@ -1,3 +1,10 @@
+# 内容 Warp+
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,anthropic
+# DOMAIN-KEYWORD,Claude
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,a.nel.cloudflare.com
 DOMAIN-SUFFIX,engage.cloudflareclient.com
